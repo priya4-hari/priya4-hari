@@ -14,26 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Myself Haripriya Andavar</h1>
- <h1><img align="right" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="icon" width="465" height="465" /></h1>
-<p align="left" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology;Undergraduate;Test+Engineer;;Aspiring+Learner&center=true&width=500&height=50"></a>
-
-</p>
-
-
+ <center>
+<h1> <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  width="505" height="310" /></h1>
+ </center>
   <em>
     Myself <b>Haripriya Andavar</b>Information Technology</b> undergraduate from <b>Government College of Technology</b>, Coimbatore.
-    An aspiring <b>Test Engineer,</b>&nbsp;  
+    An aspiring <b>Test Engineer</b>&nbsp;  
   <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
-## Languages and Tools
-<table align="center">
+<b  align="left"> Languages and Tools</b>
+<table align="left">
   <tr>
     <td align="center" width="96">
-        <img src="" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -98,4 +92,4 @@ Here are some ideas to get you started:
 <br><br>
 </tr>
 </tr></tr>
------
+

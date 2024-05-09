@@ -30,26 +30,26 @@ Here are some ideas to get you started:
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="icon" width="65" height="65" />
+      <br>C
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
-    s  <br>.Net
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Eclipse-Dark.svg" width="48" height="48" alt="Git" />
+      <br>Eclipse
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GCP
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GMail
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -58,19 +58,19 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Maven
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="icon" width="65" height="65" />
-      <br>Github
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="icon" width="65" height="65" />
+      <br>MongoDB
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="48" height="48" alt="HTML5" />
+      <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width="48" height="48" alt="css" />
+      <br>Selenium
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />

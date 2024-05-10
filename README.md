@@ -15,20 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p style="text-align:center;">
- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  width="805" height="510" />
+ <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  width="905" height="610" />
 </p>
 <em>
- <p>
- 
- </p>
-</em>
-  <em>
-    Myself <b>Haripriya Andavar</b>Information Technology</b> undergraduate from <b>Government College of Technology</b>, Coimbatore.
-    An aspiring <b>Test Engineer</b>&nbsp;  
-  <br>
+<p>
+  Hello, I am Haripriya, a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>. I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks. Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b>My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>&nbsp;. With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
-  <p align="center">  Languages and Tools</p>
-  
+  <p align="center"> <b> Languages and Tools</b></p> 
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -113,7 +106,6 @@ Here are some ideas to get you started:
  <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" width="48"height="48"/>
  <br>Cucumber
  </td>
-  
  </tr>
 </table>
 <br><br>

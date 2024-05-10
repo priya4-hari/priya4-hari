@@ -14,81 +14,105 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <center>
-<h1> <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  width="505" height="310" /></h1>
- </center>
+<p style="text-align:center;">
+ <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  width="805" height="510" />
+</p>
+<em>
+ <p>
+ 
+ </p>
+</em>
   <em>
     Myself <b>Haripriya Andavar</b>Information Technology</b> undergraduate from <b>Government College of Technology</b>, Coimbatore.
     An aspiring <b>Test Engineer</b>&nbsp;  
   <br>
 </p>
-<b  align="left"> Languages and Tools</b>
-<table align="left">
+  <p align="center">  Languages and Tools</p>
+  
+<table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Jenkins
+        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="icon" width="65" height="65" />
+      <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="icon" width="65" height="65" />
-      <br>C
+        <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="icon" width="65" height="65" />
+      <br>Soap API
     </td>
     <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Eclipse-Dark.svg" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="icon" width="65" height="65" />
       <br>Eclipse
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" alt="icon" width="65" height="65" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="icon" width="65" height="65" />
-      <br>GMail
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="icon" width="65" height="65" />
       </a>
-      <br>Java
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
+   <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="icon" width="65" height="65" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="icon" width="65" height="65" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" alt="icon" width="65" height="65" />
-      <br>Maven
+        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="icon" width="65" height="65" />
+      <br>Swagger
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="48" height="48" alt="HTML5" />
-      <br>Postman
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="HTML5" />
+      <br>Figma
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width="48" height="48" alt="css" />
       <br>Selenium
     </td>
     <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-      <br>GitHub
+        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+      <br>Java
     </td>
       <td align="center" width="96">
         <img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
         <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="Nodejs" />
-      <br>REST API
+        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="48" height="48" alt="Nodejs" />
+      <br>Maven
       </td>
-   <td alighn="center" width="96">
-    <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="48"height="48"/>
-    <br>JIRA</td>
-      
-   
+   <td align="center" width="96">
+    <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" width="48"height="48"/>
+    <br>Junit</td>
+    <td alighn="center" width="96">
+     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="48"height="48"/>
+     <br>   C
+    </td>
+ <td align="center" width="96">
+ <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" width="48"height="48"/>
+ <br>Cucumber
+ </td>
   
  </tr>
 </table>

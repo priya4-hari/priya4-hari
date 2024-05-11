@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   Hello, I am Haripriya, a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>. I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks. Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b>My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>&nbsp;. With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
 <a href="https://www.linkedin.com/in/hari-priya-b6b3501b3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
- <a href="https://github.com/stars/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
+ <a href="https://github.com/stars/priya4-hari/lists/Selenium"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
  
   <p align="center"> <b> Languages and Tools</b></p> 
 <table align="center">

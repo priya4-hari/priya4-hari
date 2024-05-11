@@ -21,14 +21,28 @@ Here are some ideas to get you started:
 <p>
   Hello, I am Haripriya, a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>. I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks. Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b>My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>&nbsp;. With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
-<a href="https://www.linkedin.com/in/hari-priya-b6b3501b3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+ 
+ ### Projects
+
+ 
  <a href="https://github.com/stars/priya4-hari/lists/Automation with Selenium"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
+  <a href="https://github.com/stars/priya4-hari/lists/Project in C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=25></a>
+ <a href="https://github.com/stars/priya4-hari/lists/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
+<a href="https://github.com/stars/priya4-hari/lists/Hands-on with Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
  <a href="https://github.com/stars/priya4-hari/lists/Python Hands-on"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25></a>
- <a href="https://github.com/stars/priya4-hari/lists/Project in C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=25></a>
+ 
+ ### Certifications
+
   <a href="https://github.com/stars/priya4-hari/lists/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
 <a href="https://github.com/stars/priya4-hari/lists/Hands-on with Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
- <a href="https://github.com/stars/priya4-hari/lists/Udemy certifications"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" height=25></a>
-  <p align="center"> <b> Languages and Tools</b></p> 
+ <a href="https://github.com/stars/priya4-hari/lists/Udemy certifications"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" height=25></a>
+ <a href="https://www.hackerrank.com/profile/Haripriya24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a>
+ <a href="https://www.hackerearth.com/@haripriya225"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height=25></a>
+  <p align="center"> <b> 
+   
+   ###  Languages and Tools
+   
+   </b></p> 
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -118,4 +132,9 @@ Here are some ideas to get you started:
 <br><br>
 </tr>
 </tr></tr>
+<br>
+
+###   My GitHub Stats 📈
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya4-hari&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
 

@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/stars/priya4-hari/lists/Project in C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=25></a>
   <a href="https://github.com/stars/priya4-hari/lists/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
 <a href="https://github.com/stars/priya4-hari/lists/Hands-on with Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
+ <a href="https://github.com/stars/priya4-hari/lists/Udemy certifications"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" height=25></a>
   <p align="center"> <b> Languages and Tools</b></p> 
 <table align="center">
   <tr>

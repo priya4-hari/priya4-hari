@@ -137,4 +137,21 @@ Here are some ideas to get you started:
 ###   My GitHub Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya4-hari&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
-
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/">
+   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:haripriyaandavar2001@gmail.com">
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/haripriya_158/">
+    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://github.com/priya4-hari">
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://portfoliobyom.netlify.app/">
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+  </a>
+  <br>

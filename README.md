@@ -40,7 +40,9 @@ Here are some ideas to get you started:
  <a href="https://www.hackerearth.com/@haripriya225"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height=25></a>
   <p align="center"> <b> 
    
-   ###  Languages and Tools
+   ###  Languages and Tools <p style="text-align:center;">
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="35" height="30" />
+</p>
    
    </b></p> 
 <table align="center">

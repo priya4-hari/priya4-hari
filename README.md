@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <a href="https://www.hackerearth.com/@haripriya225"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height=25></a>
   <p align="center"> <b> 
    
-   ###  Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="35" height="35" />
+   ###  Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="45" height="20" />
 
    
    </b></p> 
@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 ###   My GitHub Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya4-hari&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
-<h4> Connect with me🤝: <h4>
+<h4> Connect with me<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"  width="50" height="25" /> <h4>
   </hr>
   <a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 <em>
 <p>
-  <li>Hello, I am Haripriya, a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>.<br><li> I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks.<br> <li>Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b><br><li>My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>.<br></li> With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
+  <li>Hello, I am Haripriya, a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>.<br><li> I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks.<br> <li>Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b><br><li>My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>.<br><li> With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
  
  ### Projects

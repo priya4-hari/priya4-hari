@@ -133,7 +133,12 @@ Here are some ideas to get you started:
 <br><br>
 </tr>
 <br>
+<p align="center">
 
+<a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
+<a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/details/education" title="🎓 Government college of Technology Coimbatore"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+ 
+</p>
 ###   My GitHub Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya4-hari&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />

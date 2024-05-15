@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p style="text-align:center;">
- <img src=""  width="905" height="610" />
+ <img src=""  width="505" height="310" />
 </p>
 <em>
  https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif

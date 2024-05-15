@@ -39,6 +39,12 @@ Here are some ideas to get you started:
  <a href="https://www.hackerrank.com/profile/Haripriya24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a>
  <a href="https://www.hackerearth.com/@haripriya225"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height=25></a>
   <p align="center"> <b> 
+  <p align="center">
+
+<a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/details/certifications" title="💻 My Certificates"><img src="https://github.com/walidbosso/walidbosso/raw/main/images/Certificates1.png" alt="Cert" width="100px" height="100px" /></a>
+<a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/details/education" title="🎓 Government college of Technology Coimbatore"><img src="" alt="Uni" width="" height="200px" /></a>
+ 
+</p>
    
    ###  Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="45" height="20" />
 

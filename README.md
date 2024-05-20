@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 git@github.com:priya4-hari/JPetStore.git
 -->
 <p style="text-align:center;">
- <img src="https://c.tenor.com/rpQCHlvQ1lYAAAAC/tenor.gif"  width="505" height="310" />
+ <img src="https://c.tenor.com/rpQCHlvQ1lYAAAAC/tenor.gif"  width="498" height="373" />
 </p>
 <em>
  https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif

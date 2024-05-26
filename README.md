@@ -144,9 +144,9 @@ git@github.com:priya4-hari/JPetStore.git
 <h4> CONNECT WITH ME<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"  width="50" height="25" /> <h4>
   </hr>
   <a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/">
-   <img align="center" alt=" haripriya-andavar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="center" alt=" haripriya-andavar | Linkedin" width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
    <a href="https://github.com/priya4-hari">
-    <img align="center" alt="haripriya | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="center" alt="haripriya | Github" width="46px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>

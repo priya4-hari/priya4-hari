@@ -24,7 +24,7 @@ git@github.com:priya4-hari/JPetStore.git
   <li>Hello 👋, I am Haripriya, 📚 graduated from Government college of Technology, 👨‍💻 a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>.<br><li>✨ I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks.<br> <li>  🔥 Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b><br><li>  💪🏼 My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>.<br><li> 🌱 With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
  
- ### Projects
+ ### Technical Practices
 
  
  <a href="https://github.com/priya4-hari/JAVA"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
@@ -32,16 +32,14 @@ git@github.com:priya4-hari/JPetStore.git
  <a href="https://github.com/priya4-hari/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
 <a href="https://github.com/priya4-hari/Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
  <a href="https://github.com/priya4-hari/Python"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25></a>
- 
- ### Certifications
-
-  <a href="https://github.com/stars/priya4-hari/lists/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
-<a href="https://github.com/stars/priya4-hari/lists/Hands-on with Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
- <a href="https://github.com/stars/priya4-hari/lists/Udemy certifications"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" height=25></a>
  <a href="https://www.hackerrank.com/profile/Haripriya24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a>
  <a href="https://www.hackerearth.com/@haripriya225"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height=25></a>
+  <a href="https://github.com/stars/priya4-hari/lists/automation-with-selenium"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" height=25></a>
   <p align="center"> <b> 
   <p align="center">
+
+ ### Certifications
+
 
 <a href="https://1drv.ms/f/s!AhKFF90IvRUkjxP30P9K8Ah8aFl2?e=1aCRIe" title="💻 My Certificates"><img src="https://github.com/walidbosso/walidbosso/raw/main/images/Certificates1.png" alt="Cert" width="100px" height="100px" /></a>
 

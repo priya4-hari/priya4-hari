@@ -29,7 +29,7 @@ git@github.com:priya4-hari/JPetStore.git
  
  <a href="https://github.com/priya4-hari/JAVA"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
   <a href="https://github.com/priya4-hari/C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=25></a>
- <a href="https://github.com/stars/priya4-hari/lists/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
+ <a href="https://github.com/priya4-hari/Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height=25></a> 
 <a href="https://github.com/stars/priya4-hari/lists/Hands-on with Cucumber"><img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" height=25></a>
  <a href="https://github.com/stars/priya4-hari/lists/Python Hands-on"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height=25></a>
  

@@ -24,7 +24,7 @@ git@github.com:priya4-hari/JPetStore.git
   <li>Hello 👋, I am Haripriya, 📚 graduated from Government college of Technology, 👨‍💻 a dedicated and experienced software testing professional with 1.5 years of hands-on experience in <b>Manual Testing</b> and <b >API Testing</b>.<br><li>✨ I possess a strong proficiency in <b>Automation Testing</b> with Selenium and Java by using <b>JUnit, TestNG and Cucumber</b> Frameworks.<br> <li>  🔥 Skilled in utilizing various testing tools such as <b>JMeter, NeoLoad, Postman, Jira, Jenkins, Kibana, LightHouse and Excel.</b><br><li>  💪🏼 My expertise extends to working with database like <b>MongoDB</b>, Programming languages like <b>C, Java</b>.<br><li> 🌱 With a keen eye for detail and a passion for ensuring software quality, I am excited to bring my diverse skill set to any testing role.
 </p>
  
- ### Technical Practices
+ ### TECHNICAL PRACTICES
 
  
  <a href="https://github.com/priya4-hari/JAVA"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height=25></a> 
@@ -38,7 +38,7 @@ git@github.com:priya4-hari/JPetStore.git
   <p align="center"> <b> 
   <p align="center">
 
- ### Certifications
+ ### CERTIFICATIONS
 
 
 <a href="https://1drv.ms/f/s!AhKFF90IvRUkjxP30P9K8Ah8aFl2?e=1aCRIe" title="💻 My Certificates"><img src="https://github.com/walidbosso/walidbosso/raw/main/images/Certificates1.png" alt="Cert" width="100px" height="100px" /></a>
@@ -46,7 +46,7 @@ git@github.com:priya4-hari/JPetStore.git
  
 </p>
    
-   ###  Languages and Tools   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="45" height="20" />
+   ###  LANGUAGES AND TOOLS   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="45" height="20" />
 
    
    </b></p> 
@@ -138,21 +138,15 @@ git@github.com:priya4-hari/JPetStore.git
 </table>
 
 
-###   My GitHub Stats 📈
+###   MY GITHUB STATUS 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priya4-hari&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
-<h4> Connect with me<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"  width="50" height="25" /> <h4>
+<h4> CONNECT WITH ME<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"  width="50" height="25" /> <h4>
   </hr>
   <a href="https://www.linkedin.com/in/hari-priya-b6b3501b3/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:haripriyaandavar2001@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/haripriya_158/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+   <img align="center" alt=" haripriya-andavar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
    <a href="https://github.com/priya4-hari">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="center" alt="haripriya | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>

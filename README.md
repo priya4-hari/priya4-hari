@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 git@github.com:priya4-hari/JPetStore.git
 -->
 <p style="text-align:center;">
- <img align="center" src="https://cdn.dribbble.com/users/187592/screenshots/3848396/character-typing.gif"  width="350" height="300" />
+ <img align="center" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"  width="350" height="300" />
 </p>
 <em>
 <p>
